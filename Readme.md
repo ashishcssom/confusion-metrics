@@ -3,4 +3,4 @@
             ( (__ (  O )/    / ) _) ) \/ (\___ \ )(  (  O )/    /      / \/ \ ) _)   )(   )   / )(  ( (__ \___ \
              \___) \__/ \_)__)(__)  \____/(____/(__)  \__/ \_)__)      \_)(_/(____) (__) (__\_)(__)  \___)(____/
 
-!["Confusion metrics"](./image/ConfusionMetrics.png)
+!["Confusion metrics"](./image/confusion metrics.png)
